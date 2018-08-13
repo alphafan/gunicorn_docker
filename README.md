@@ -9,3 +9,7 @@ __To run container__
 ```bash
 bash run_container.sh
 ```
+
+Open your browser: 0.0.0.0:5000/index
+
+Done.
